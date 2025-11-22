@@ -36,9 +36,15 @@
 
 		<table style="width:100%;font-size:12px;" cellpadding="5" >
 			<tr>
-				<td style="width:20%;">
-					<img src="{{ asset("symbolleft.jpg") }}" width="100%" height="200px"/>
-				</td>
+				<td style="width:20%; text-align:center;">
+    <div style="margin-bottom:10px; font-size:14px; line-height:1.3;">
+        <strong>Developed By:</strong><br> Hammad Akram <br>
+        <strong>Mobile:</strong> 0320-5658188
+    </div>
+
+    <img src="{{ asset('symbolleft.jpg') }}" width="100%" height="130px" />
+</td>
+
 				<td style="vertical-align: top; width: 60%; padding: 0px;">
 					<table cellpadding="5" style="text-align: right;">
 						<tr>
